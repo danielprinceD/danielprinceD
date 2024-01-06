@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Daniel Prince D</h1>
+<h1 align="center">Hi, I'm Daniel Prince D</h1>
 <h3 align="center">I Love Coding Unconditionally as well as Perseverance</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielprinced" alt="danielprinced" /></a> </p>
 
