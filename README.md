@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Prince D</h1>
 <h3 align="center">I Love Coding Unconditionally as well as Perseverance</h3>
-
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielprinced&label=Profile%20views&color=0e75b6&style=flat" alt="danielprinced" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielprinced" alt="danielprinced" /></a> </p>
 
@@ -30,6 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielprinced&show_icons=true&theme=onedark&locale=en&layout=compact" alt="danielprinced" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielprinced&show_icons=true&theme=onedark&locale=en" alt="danielprinced" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielprinced&show_icons=true&theme=merko&locale=en" alt="danielprinced" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielprinced&theme=dark" alt="danielprinced" /></p>
+
