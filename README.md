@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" height ="500" width="1200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-<h3 align="center><b>Hi 🙌, I'm Daniel Prince D </b></h3>
+<h3 align="center" ><b>Hi 🙌, I'm Daniel Prince D </b> </h3>
 <br>
-<img align="center" alt="Coding" height ="550" width="700" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  <img align="center" alt="Coding" height ="550" width="700" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielprinced" alt="danielprinced" /></a> </p>
 
