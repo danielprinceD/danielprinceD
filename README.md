@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height ="250" width="1000" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="center" alt="Coding" height ="350" width="1200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <h3 align="center"><b>Hi 🙌, I'm Daniel Prince D </b></h3>
 <h3 align="center">I Love Coding Unconditionally as well as Perseverance</h3>
 <br>
