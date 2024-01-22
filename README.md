@@ -2,15 +2,14 @@
 <br>
 
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Django Framework**
 
-- 🌱 I’m currently learning **Python Machine Learning**
+- 🌱 I’m currently learning **REST-Framework**
 
 - 📝 I regularly write articles on [https://www.instagram.com/danielprince.d/](https://www.instagram.com/danielprince.d/)
 
 - 📫 How to reach me **d.danielprince2003@gmail.com**
 
-- ⚡ Fun fact **The Mona Lisa has no eyebrows.**
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielprinced" alt="danielprinced" /></a> </p>
 
