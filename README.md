@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Daniel Prince D . I'm a Engineering Student...</h3>
+<h3 align="center">Hi 👋! My name is Daniel Prince D . I'm an Engineering Student...</h3>
 <br>
 
 
