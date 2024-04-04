@@ -2,13 +2,13 @@
 <br>
 
 
-- 🔭 I’m currently working on **Django Framework**
+-  I’m currently working on **Django Framework**
 
-- 🌱 I’m currently learning **REST-Framework**
+-  I’m currently learning **REST-Framework**
 
-- 📝 I regularly write articles on [https://www.instagram.com/danielprince.d/](https://www.instagram.com/danielprince.d/)
+-  I regularly write articles on [https://www.instagram.com/danielprince.d/](https://www.instagram.com/danielprince.d/)
 
-- 📫 How to reach me **d.danielprince2003@gmail.com**
+-  Reach me through **d.danielprince2003@gmail.com**
 
 <br>
 <br>
