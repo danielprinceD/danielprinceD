@@ -11,7 +11,6 @@
 - 📫 How to reach me **d.danielprince2003@gmail.com**
 
 <br>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=danielprinced" alt="danielprinced" /></a> </p>
 
 ###
 
