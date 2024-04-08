@@ -6,7 +6,7 @@
 
 -  I’m currently learning **REST-Framework**
 
--  I regularly write articles on [https://www.instagram.com/danielprince.d/](https://www.instagram.com/danielprince.d/)
+-  Portfolio - https://danielprinced.github.io
 
 -  Reach me through **d.danielprince2003@gmail.com**
 
