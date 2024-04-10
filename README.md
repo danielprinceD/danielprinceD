@@ -6,7 +6,7 @@
 
 -  I’m currently learning **REST-Framework**
 
--  Portfolio - https://danielprinced.github.io
+-  Portfolio - https://danielprinced.github.io/Portfolio
 
 -  Reach me through **d.danielprince2003@gmail.com**
 
